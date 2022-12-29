@@ -6,8 +6,8 @@
 Mehandi is a form of body art and temporary skin decoration from the Indian subcontinent usually drawn on hands or legs. They are decorative designs that are created on a person's body, using a paste, created from the powdered dry leaves of the henna plant.
 
 # Project DemoLinks:
-Github Reposistory Link: https://mango-pond-098653710.2.azurestaticapps.net
-Azure project Link:https://github.com/akhilamoduguru/mehndi
+Github Reposistory Link: https://github.com/akhilamoduguru/mehndi
+Azure project Link:  https://mango-pond-098653710.2.azurestaticapps.net
 
 # Azure techonoligies used:
 static webapp,
