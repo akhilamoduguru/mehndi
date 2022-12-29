@@ -1,4 +1,4 @@
-# Hii..This is Ahika here is about FRT Project
+# Hii..This is Akhila here is about FRT Project
 
 # Project Name: MEHENDI STYLES
 
